@@ -45,7 +45,7 @@ pip install tqdm plyer
    Execute the script in your terminal:
 
    ```
-   python file_extractor.py
+   python MassDecompress.py
    ```
 
 3. **Select Directory:**
@@ -69,7 +69,7 @@ pip install tqdm plyer
 1. Run the script:
 
    ```
-   python file_extractor.py
+   python MassDecompress.py
    ```
 
 2. Select files to extract from the listed options or choose to extract all.
