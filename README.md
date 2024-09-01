@@ -36,8 +36,8 @@ pip install tqdm plyer
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
+   git clone https://github.com/YaBoiSwayZ/MassFileDecompressor-v1.git
+   cd MassFileDecompressor-v1-main
    ```
 
 2. **Run the Script:**
