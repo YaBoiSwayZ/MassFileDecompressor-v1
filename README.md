@@ -86,6 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [tqdm](https://github.com/tqdm/tqdm) for the progress bar.
 - [plyer](https://github.com/kivy/plyer) for desktop notifications.
-```
-
-Replace `yourusername` and `repository-name` with your actual GitHub username and repository name. If your repository has a different license, make sure to update the License section accordingly.
