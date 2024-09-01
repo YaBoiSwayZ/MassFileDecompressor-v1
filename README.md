@@ -1,4 +1,3 @@
-```
 # File Extractor
 
 This Python script provides a simple and efficient way to extract various compressed files from a specified directory or the default Downloads folder. It supports `.zip`, `.gz`, `.tgz`, `.tar`, and `.tar.gz` file formats. The script includes functionality for user notifications and error handling, making it user-friendly and robust.
@@ -28,7 +27,7 @@ This Python script provides a simple and efficient way to extract various compre
 
 You can install the required modules using `pip`:
 
-```bash
+```
 pip install tqdm plyer
 ```
 
@@ -36,7 +35,7 @@ pip install tqdm plyer
 
 1. **Clone the Repository:**
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/repository-name.git
    cd repository-name
    ```
@@ -45,7 +44,7 @@ pip install tqdm plyer
 
    Execute the script in your terminal:
 
-   ```bash
+   ```
    python file_extractor.py
    ```
 
@@ -69,7 +68,7 @@ pip install tqdm plyer
 
 1. Run the script:
 
-   ```bash
+   ```
    python file_extractor.py
    ```
 
